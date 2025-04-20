@@ -62,5 +62,5 @@ function drawTextBox() {
 
   // 繪製文字
   fill(0); // 黑色文字
-  text("程式設計與實習（二）期中報告(滑鼠往左上移動以顯示選單)", width / 2, height / 2 - 25); // 提高 25
+  text("程式設計與實習（二）期中報告", width / 2, height / 2 - 25); // 提高 25
 }
